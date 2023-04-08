@@ -1,0 +1,2 @@
+B2BOrder was taken from ThoughtClan with id 1 on 2022-04-04 on the Value of 5000000.
+B2COrder was taken from Rabinarayan Patra with id 2 on 2022-04-04 on the Value of 250000.
